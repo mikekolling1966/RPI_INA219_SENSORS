@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+venv/
+.venv/
+
+# Logs
+*.log
+*.err
+
+# Secrets / local config
+.env
+*.token
+signalk_token.txt
